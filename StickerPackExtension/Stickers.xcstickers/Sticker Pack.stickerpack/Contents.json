@@ -1,0 +1,44 @@
+{
+  "stickers" : [
+    {
+      "filename" : "bird.sticker"
+    },
+    {
+      "filename" : "cat.sticker"
+    },
+    {
+      "filename" : "cat1.sticker"
+    },
+    {
+      "filename" : "cat2.sticker"
+    },
+    {
+      "filename" : "co.sticker"
+    },
+    {
+      "filename" : "cu.sticker"
+    },
+    {
+      "filename" : "mario.sticker"
+    },
+    {
+      "filename" : "sako.sticker"
+    },
+    {
+      "filename" : "sleep.sticker"
+    },
+    {
+      "filename" : "smile.sticker"
+    },
+    {
+      "filename" : "swift.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
